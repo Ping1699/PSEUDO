@@ -1,0 +1,7 @@
+Given IP Address
+first, to get the mask just look at the given ip address
+second, convert the subnet mask and ip address to binary
+third, after you convert the mask and the ip address to binary you just simply copy all the number 1 in the mask
+fourth, to get the minimum ip look at the host id in the subnet then plus one on it that's the minimum ip
+lastly, to get the maximum ip you should change all the zeroes on the host id of the subnet id to one for you to get the max ip
+
